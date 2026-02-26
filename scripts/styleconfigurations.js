@@ -247,3 +247,4 @@ window.styleConfiguration = {
     "--message-concierge-link-decoration": "underline",
   },
 };
+
